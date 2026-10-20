@@ -1,0 +1,14 @@
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\bin\Debug\net10.0\KT8_Algorithms.exe
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\bin\Debug\net10.0\KT8_Algorithms.deps.json
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\bin\Debug\net10.0\KT8_Algorithms.runtimeconfig.json
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\bin\Debug\net10.0\KT8_Algorithms.dll
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\bin\Debug\net10.0\KT8_Algorithms.pdb
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\obj\Debug\net10.0\KT8_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\obj\Debug\net10.0\KT8_Algorithms.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\obj\Debug\net10.0\KT8_Algorithms.AssemblyInfo.cs
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\obj\Debug\net10.0\KT8_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\obj\Debug\net10.0\KT8_Algorithms.dll
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\obj\Debug\net10.0\refint\KT8_Algorithms.dll
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\obj\Debug\net10.0\KT8_Algorithms.pdb
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\obj\Debug\net10.0\KT8_Algorithms.genruntimeconfig.cache
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT4-10_Algorithms\KT8_Algorithms\obj\Debug\net10.0\ref\KT8_Algorithms.dll

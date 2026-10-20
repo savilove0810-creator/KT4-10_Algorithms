@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "KT9_Algorithms/1.0.0": {
+        "runtime": {
+          "KT9_Algorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KT9_Algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

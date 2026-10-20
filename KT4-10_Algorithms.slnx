@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="KT10_Algorithms/KT10_Algorithms.csproj" />
+  <Project Path="KT4_Algorithms/KT4_Algorithms.csproj" />
+  <Project Path="KT5_Algorithms/KT5_Algorithms.csproj" />
+  <Project Path="KT6_Algorithms/KT6_Algorithms.csproj" />
+  <Project Path="KT7_Algorithms/KT7_Algorithms.csproj" />
+  <Project Path="KT8_Algorithms/KT8_Algorithms.csproj" />
+  <Project Path="KT9_Algorithms/KT9_Algorithms.csproj" />
+</Solution>
